@@ -137,3 +137,6 @@ dmypy.json
 *.txt
 *.pth
 *.bin
+
+# hansard
+hansard/data/model/README.md
